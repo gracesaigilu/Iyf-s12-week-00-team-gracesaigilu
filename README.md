@@ -11,3 +11,7 @@ Visual Studio Code is a free code editor developed by Microsoft. It helps studen
 - Helps with debugging and writing code
 
 VS Code is useful for learning programming and building projects.
+
+## Contributors
+
+- Grace Saigilu

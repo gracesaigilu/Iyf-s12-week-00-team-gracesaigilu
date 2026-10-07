@@ -12,6 +12,10 @@ Visual Studio Code is a free code editor developed by Microsoft. It helps studen
 
 VS Code is useful for learning programming and building projects.
 
+### Google drive
+Google drive is a useful tool for students because it allows them to store,organise,and access school files online.Students can use it to keep assignments,notes and presentations.It also makes it easy to share files and work together with classmates.
+
 ## Contributors
 
 - Grace Saigilu
+- Rahab kungu 

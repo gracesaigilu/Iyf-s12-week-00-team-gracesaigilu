@@ -1,5 +1,5 @@
 # useful-tools-for-students
-A mini knowledge  based sharing  useful tools for students and how they can help in learning and productivity
+A mini knowledge base for students, built by our team and how they can help in learning and productivity
 ## Visual Studio Code (VS Code)
 
 Visual Studio Code is a free code editor developed by Microsoft. It helps students write, edit, and organize code.

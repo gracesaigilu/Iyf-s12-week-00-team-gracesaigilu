@@ -18,4 +18,15 @@ Google drive is a useful tool for students because it allows them to store,organ
 ## Contributors
 
 - Grace Saigilu
-- Rahab kungu 
+- Rahab kungu
+
+ ## HTML learning Resources
+ Useful places for beginners to learn HTML:
+ - [MDN: Learn HTML] (https://developer.mozilla.org/en-US/docs/learn/HTML) -clear, trusted guides on tags ,link,images, and page stucture.
+ - [W3SchoolsHTML Tutorial] (https://WWW.W3schools.com/html) -short lessons with a "try it yourself" editor, so you can practice as you read.
+
+### What you can learn from them
+- How to  HTML page is structured
+- How to add links and images
+- How to build forms and tables
+  
